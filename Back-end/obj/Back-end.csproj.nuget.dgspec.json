@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Poste 3\\Desktop\\last\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj": {}
+    "C:\\Users\\Poste 8\\Desktop\\Perf-Ana\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Poste 3\\Desktop\\last\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj": {
+    "C:\\Users\\Poste 8\\Desktop\\Perf-Ana\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Poste 3\\Desktop\\last\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj",
+        "projectUniqueName": "C:\\Users\\Poste 8\\Desktop\\Perf-Ana\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj",
         "projectName": "Back-end",
-        "projectPath": "C:\\Users\\Poste 3\\Desktop\\last\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj",
-        "packagesPath": "C:\\Users\\Poste 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Poste 3\\Desktop\\last\\Perf-Analysis-Back-end\\Back-end\\obj\\",
+        "projectPath": "C:\\Users\\Poste 8\\Desktop\\Perf-Ana\\Perf-Analysis-Back-end\\Back-end\\Back-end.csproj",
+        "packagesPath": "C:\\Users\\Poste 8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Poste 8\\Desktop\\Perf-Ana\\Perf-Analysis-Back-end\\Back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Poste 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Poste 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
